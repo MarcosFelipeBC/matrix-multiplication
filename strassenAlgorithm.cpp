@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int N = 905;
+const int N = 805;
 
 struct matrix {
     int sz;
