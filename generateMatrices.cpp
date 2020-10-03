@@ -7,7 +7,7 @@ int main()
 {
 	int n;
 	scanf("%d", &n);
-	srand (time(NULL));
+	srand(time(NULL));
 		
 	printf("%d\n", n);
 		
